@@ -4,7 +4,7 @@
 
 + 数据来源
 
- + https://github.com/pwxcoo/chinese-xinhua
+ - https://github.com/pwxcoo/chinese-xinhua
 
 + 打包前的vue项目源码
 
