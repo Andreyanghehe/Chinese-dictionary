@@ -22,18 +22,18 @@
 + 汉字
 
   + 可根据简繁体汉字及拼音进行查询
-  + ![屏幕快照 2019-03-28 13.13.41](https://ws3.sinaimg.cn/large/006tKfTcly1g1ifo40zzsj31oe0u0q7h.jpg)
+    ![屏幕快照 2019-03-28 13.13.41](https://ws3.sinaimg.cn/large/006tKfTcly1g1ifo40zzsj31oe0u0q7h.jpg)
 
-  + ![屏幕快照 2019-03-28 13.13.55](https://ws4.sinaimg.cn/large/006tKfTcly1g1ifold6mgj31of0u07at.jpg)
+    ![屏幕快照 2019-03-28 13.13.55](https://ws4.sinaimg.cn/large/006tKfTcly1g1ifold6mgj31of0u07at.jpg)
 
   + 文字释义
 
     ![屏幕快照 2019-03-28 13.14.28](https://ws1.sinaimg.cn/large/006tKfTcly1g1ifpkuvr1j31rg0t042j.jpg)
 
-  + ![屏幕快照 2019-03-28 13.14.38](https://ws1.sinaimg.cn/large/006tKfTcly1g1ifpxzd3kj31ol0u07c7.jpg)
+    ![屏幕快照 2019-03-28 13.14.38](https://ws1.sinaimg.cn/large/006tKfTcly1g1ifpxzd3kj31ol0u07c7.jpg)
 
 + 成语词汇及歇后语支持模糊搜索, 输入部分汉字即可
 
-  + ![屏幕快照 2019-03-28 13.19.44](https://ws4.sinaimg.cn/large/006tKfTcly1g1ift9u9j0j31ot0u0td1.jpg)
+    ![屏幕快照 2019-03-28 13.19.44](https://ws4.sinaimg.cn/large/006tKfTcly1g1ift9u9j0j31ot0u0td1.jpg)
 
-  + ![屏幕快照 2019-03-28 13.19.52](https://ws2.sinaimg.cn/large/006tKfTcly1g1iftmjbrcj31oo0u0ai5.jpg)
+    ![屏幕快照 2019-03-28 13.19.52](https://ws2.sinaimg.cn/large/006tKfTcly1g1iftmjbrcj31oo0u0ai5.jpg)
