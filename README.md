@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ipic
----
-
 ## 汉语字典
 
 + 使用node服务器和vue做成的汉语字典, 可查询字, 词, 成语, 歇后语
