@@ -2,6 +2,10 @@
 
 + 使用node服务器和vue做成的汉语字典, 可查询字, 词, 成语, 歇后语
 
++ 数据来源
+
+ + https://github.com/pwxcoo/chinese-xinhua
+
 + 打包前的vue项目源码
 
   + https://github.com/Andreyanghehe/vue
